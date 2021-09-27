@@ -1,0 +1,6 @@
+
+CustomerName: anuj
+CustomerPhoneNumber: 12
+CustomerAddress: kanpur
+MedicineName: 102
+MedicinePrice: 102
